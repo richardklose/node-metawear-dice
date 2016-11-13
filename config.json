@@ -1,5 +1,5 @@
 {
-  "devices":[
-    "e34f7e37f6a54369bda2362a79fe1bf7"
-  ]
+  "device":"e34f7e37f6a54369bda2362a79fe1bf7",
+  "rate":10,
+  "range":2
 }
