@@ -1,0 +1,27 @@
+{
+  "name": "node-metawear-dice",
+  "version": "0.0.1",
+  "description": "A Node.js application acting as a receiver for a dice with a Meta Wear CPRO inside.",
+  "main": "index.js",
+  "dependencies": {
+    "node-metawear": "^0.3.4"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardklose/node-metawear-dice.git"
+  },
+  "keywords": [
+    "metawear"
+  ],
+  "author": "Richard Klose <richard.klose@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardklose/node-metawear-dice/issues"
+  },
+  "homepage": "https://github.com/richardklose/node-metawear-dice#readme"
+}
