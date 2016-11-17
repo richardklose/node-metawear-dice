@@ -1,0 +1,5 @@
+{
+  "port": 1883,
+  "host": "localhost",
+  "clientId": "node-metawear-dice"
+}
